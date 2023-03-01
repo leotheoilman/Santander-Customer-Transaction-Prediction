@@ -5,3 +5,5 @@ Background – Santander's mission is to help people and businesses succeed by p
 Therefore; in this study, we need to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted.
 
 test.csv and train.csv files can be found at https://www.kaggle.com/competitions/santander-customer-transaction-prediction/data
+
+This repository includes a readme file and the insitial and final code.
