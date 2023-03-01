@@ -6,4 +6,4 @@ Therefore; in this study, we need to identify which customers will make a specif
 
 test.csv and train.csv files can be found at https://www.kaggle.com/competitions/santander-customer-transaction-prediction/data
 
-This repository includes a readme file and the insitial and final code.
+This repository includes a read.me file and the insitial python code.
